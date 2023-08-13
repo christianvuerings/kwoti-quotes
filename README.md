@@ -1,4 +1,4 @@
-# Kwoti
+# Kwoti Quotes
 
 Service to download quotes from https://www.goodreads.com/quotes
 
